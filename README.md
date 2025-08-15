@@ -8,4 +8,4 @@
 Відкрийте **PowerShell від імені адміністратора** та виконайте команду:
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/ВАШ_ЛОГІН/win11-tweaks/main/tweaks.ps1 | iex
+iwr -useb [https://raw.githubusercontent.com/ВАШ_ЛОГІН/win11-tweaks/main/tweaks.ps1](https://raw.githubusercontent.com/AshWombey/UWinGM/refs/heads/main/tweaks.ps1) | iex
