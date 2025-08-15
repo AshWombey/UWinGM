@@ -1,3 +1,6 @@
+# Увімкнення повної підтримки кирилиці
+[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
+
 # =================================================================================
 # PowerShell Script for Safe Windows Gaming Tweaks
 # Based on the guide by Patreon user "PC Gaming: Optimized"
@@ -169,4 +172,5 @@ Write-Host "            Всі твіки було оброблено."
 Write-Host "Для того, щоб більшість змін набули чинності, рекомендується"
 Write-Host "перезавантажити комп'ютер."
 Write-Host "================================================================" -ForegroundColor Green
+
 Read-Host "Натисніть Enter, щоб завершити."
